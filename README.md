@@ -5,18 +5,18 @@ In this project, I utilized Python in conjunction with Selenium to automate web 
 
 Python Selenium Automation Task:
 
-Objective:
+1.Objective:
 
 Automate the testing of a web application.
 Verify functionality including form submissions, navigation, and data display.
 Tools and Technologies:
 
-Python: Used for writing and managing test scripts.
+2.Python: Used for writing and managing test scripts.
 Selenium WebDriver: Facilitated browser automation.
 Browser Driver (e.g., ChromeDriver): Enabled browser interactions.
 Implementation Details:
 
-Setup and Configuration:
+3.Setup and Configuration:
 Installed Selenium WebDriver and configured it with the target web application.
 Used compatible browser drivers (e.g., ChromeDriver for Google Chrome).
 Test Script Development:
@@ -26,20 +26,21 @@ Incorporated assertions to verify correctness of outcomes (e.g., text verificati
 Error Handling and Reporting:
 Implemented error handling to manage unexpected issues.
 Generated detailed reports on test results for review.
-Challenges and Solutions:
 
-Dynamic Content Handling:
+4.Challenges and Solutions:
+
+*Dynamic Content Handling:
 Used explicit waits to manage dynamic content and asynchronous elements.
 Cross-Browser Testing:
 Adapted scripts to ensure compatibility across multiple browsers.
 Outcome and Impact:
 
-Efficiency Improvement:
+*Efficiency Improvement:
 Reduced time and effort required for manual testing.
 Increased testing coverage and provided faster feedback on code changes.
-Bug Identification:
+*Bug Identification:
 Detected and reported critical bugs, leading to improved software quality.
-Documentation and Maintenance:
+5.Documentation and Maintenance:
 
 Documentation:
 Created comprehensive documentation for setup, script usage, and maintenance.
