@@ -48,5 +48,7 @@ Maintenance:
 Regularly updated and maintained test scripts to adapt to changes in the web application.
 
 
+https://github.com/user-attachments/assets/3b4fb585-f850-4756-bdb4-826cc7b40438
+
  
 Link : https://drive.google.com/file/d/1O406CXdS81rZpLPj6Gorpk1vN7bbXdMF/view?usp=sharing
